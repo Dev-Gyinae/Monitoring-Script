@@ -102,7 +102,7 @@ Indicates the successful execution of the script.
 3. Run the script:
    ```bash
    sudo ./system_metrics.sh
-   ``` 
+   ```
 
 ## Notes
 - The script requires `sudo` privileges to clear caches and delete logs.
