@@ -1,4 +1,4 @@
-# System Metrics and Cleanup Script
+# System Metrics and Cleanup Script 
 
 ## Overview
 This Bash script collects system metrics, clears caches, removes old log files, and generates a detailed report. The report is saved in a file named `report.txt`.
