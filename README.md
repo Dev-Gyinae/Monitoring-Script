@@ -10,7 +10,7 @@ This Bash script collects system metrics, clears caches, removes old log files, 
 - Identifies the top space-consuming files.
 - Deletes log files older than one week.
 
-## Script Breakdown
+## Script Breakdown 
 
 ### Variables
 ```bash
