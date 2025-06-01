@@ -88,7 +88,7 @@ top -b -n1 | head -n 10 >> "$REPORT"
 Displays a processor usage summary.
 
 ### Final Output Message
-```bash
+```bash 
 echo "Logs older than 1 week cleared. Caches cleared. Report saved to $REPORT."
 ```
 Indicates the successful execution of the script.
